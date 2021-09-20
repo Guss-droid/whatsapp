@@ -1,5 +1,5 @@
 # whatsapp
 
-*Clone da interface WhatsApp*
+## Clone da interface WhatsApp
 
-Feito com React native
+*Feito com React native*
